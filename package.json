@@ -1,0 +1,9 @@
+{
+  "name": "d30360u",
+  "version": "0.1.0",
+  "repo": "hcnn/d30360u",
+  "description": "Date difference in years according to the 30/360 ISDA daycount method",
+  "keywords": ["daycount", "date difference", "year fraction", "30/360 ISDA", "30U/360", "30/360 US", "30/360 Bond Basis", "30/360 U.S. Municipal", "American Basic Rule"],
+  "license": "MIT",
+  "src": ["d30360u.c", "d30360u.h"]
+}
